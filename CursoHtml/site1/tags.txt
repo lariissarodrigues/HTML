@@ -1,0 +1,147 @@
+COMENTARIOS NO HMTL
+
+<!-- comentario -->
+
+
+<p> </p> - paragrafo
+
+<b> </b> - negrito
+
+<hr> - linha de divição
+
+<dell> </dell> - riscado
+
+<small> </small> - texto pequeno
+
+<h1> </h1> - titulo
+
+<strong> </strong> - enfase(negrito)
+
+<br> </br> - quebra de linha
+
+<sup> </sup> - superior (ex: numeros elevados)
+
+<mark> </mark> - marca o texto
+
+<sub> </sub> - inferior 
+
+<u></u> - sublinhado
+
+<i></i> - italico
+
+
+==================TAGS DE CITAÇÃO ===========================
+
+<abbr title = "explicação da abreviação"> </abbr> - usar quando tivermos abreviações
+
+<adress></adress> - endereços de emails, casas e etc 
+
+<cite></cite> - obras literarias, trechos de filmes
+
+<q></q> - falas de terceiros 
+
+<blockquote></blockquote> - citação em destaque 
+
+<bdo>dir= "rtl"</bdo> - deixa o texto de trás pra frente 
+
+======== TAGS DE LINKS ========
+
+<a href = "link" target = "_blank"> titulo </a> 
+target = "_blank" isso serve para a pagina abrir em outra aba
+
+exemplo: 
+<a href="https://github.com/lariissarodrigues" target="_blank">https://github.com/lariissarodrigues</a>
+
+======== TAGS DE IMAGENS ========
+
+<img src = "link absoluto ou relativo" width="largura" height="Altura" alt = "Descrição da imagem">
+
+======== Imagem Maepeada ========
+
+imagens mapeadas são fotos que dependendo do lugar onde o click é feito 
+o usuario é encaminhado para uma determinada pagina
+
+Como Fazer: 
+
+Acessar o site: https://www.image-map.net/ 
+ele faz automaticamente o mapeamento da imagem
+
+
+========= TABELAS ========= 
+
+TAGS: 
+
+<table></table> - abre uma tabela
+<tr></tr> - Cria uma linha 
+<th></th> - Nome da coluna 
+<td></td> - Dados da tabela
+        
+CONSTRUÇÃO:
+
+<table height ="largura" border = "tamanho da borda"> 
+    
+    <tr>
+        <th>Nome da coluna</th> 
+    
+    </tr> 
+
+    <tr>
+        <td>
+        Dados da tabela 
+        </td>
+    </tr>
+
+</table>
+
+=========LISTAS=========
+
+DIFERENÇAS: 
+
+Ordenadas - A separação dos itens é feita por numeros
+Não ordenadas - A separação é feita por ponto
+
+EXEMPLOS: 
+
+
+
+=======================================
+NÃO ORDENADAS: 
+
+TAGS:
+<ul> </ul> - corpo da lista
+<li> </li> - nome dos itens
+
+CONSTRUÇÃO: 
+
+<ul>
+
+    <li> nome do item </li> 
+
+<ul> 
+=======================================
+
+ORDENADAS: 
+
+TAGS: 
+ 
+<ol> </ol> - corpo da lista
+<li> </li> - nome dos itens
+
+CONSTRUÇÃO: 
+
+<ol>
+
+    <li> nome do item </li> 
+
+</ol> 
+=======================================
+
+
+
+
+
+
+
+
+
+
